@@ -1,7 +1,7 @@
 # comparative_study_on_comment
 Dataset &amp; code for an exploratory study paper **A comparative study on method comment and inline comment**
 
-The dataset includes two files, they are:
+The dataset is in *master* branch and includes two files, they are:
 - method.json
 - inline.json
 
